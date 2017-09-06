@@ -97,7 +97,7 @@ const config = {
     // disableHostCheck: true,//如果host设置为0.0.0.0，则disableHostCheck必须设置为true，局域网内其他ip才可以访问
     // host: '0.0.0.0', //192.168.1.110
     open: true,
-    port: 4001,
+    port: 3000,
     // Info: true,
     proxy: {
       // '/api': {
